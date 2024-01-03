@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm Andres Suarique, A passionate developer from Colombia 😎
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/asuarique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresuarique) 
 
@@ -13,6 +12,6 @@ Hi, I'm Andres Suarique, A passionate developer from Colombia 😎
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresuarique&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andresuarique&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=andresuarique&label=Profile%20views&color=6508A0&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
