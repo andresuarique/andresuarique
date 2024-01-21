@@ -2,7 +2,7 @@
 | 24yo | ![🇨🇴](https://flagcdn.com/16x12/co.png) Colombia |[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresuarique) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/asuarique)|
 |---|---|---|
 
-_I am a passionate software developer with experience in Java using Spring Boot and Angular. Along with my enthusiasm for video games and chess, I stand out for my calm approach and total dedication. My ability to learn new technologies and experiment with them, along with meticulous attention to detail, drives me to deliver the best on every project._
+_Software developer with experience in Java using Spring Boot and Angular. Along with my enthusiasm for video games and chess, I stand out for my calm approach and total dedication. My ability to learn new technologies and experiment with them, along with meticulous attention to detail, drives me to deliver the best on every project._
 
 ###
 
