@@ -1,4 +1,4 @@
-#  Andres Camilo Suarique Mendez
+#  Andrés Camilo Suarique Mendez
 | 24yo | ![🇨🇴](https://flagcdn.com/16x12/co.png) Colombia |[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresuarique) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/asuarique)|
 |---|---|---|
 
