@@ -1,5 +1,5 @@
 
-<h1>Andrés Suarique</h1>
+<img src="https://raw.githubusercontent.com/andresuarique/andresuarique/main/img/banner.png" alt="Andrés Suarique" />
 <table>
   <tr>
     <td><b>24 Años</b></td>
